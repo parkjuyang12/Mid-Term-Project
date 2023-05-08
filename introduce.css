@@ -3,11 +3,6 @@ body {
     color: white;
 }
 
-
-
-
-
-
 .top {
     top: 0;
     height: 60px;
@@ -84,3 +79,4 @@ body {
     text-align:center;
     border-radius:1rem;
     border:none;
+}
