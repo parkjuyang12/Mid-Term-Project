@@ -1,0 +1,86 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+.top {
+    top: 0;
+    height: 60px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+
+.introbox{
+    background-color: rgb(125, 153, 217);
+    border-radius: 30px;
+    width:40%;
+    margin-left:1%;
+    padding-top:5%;
+    padding-bottom:5%;
+}
+
+.profile{
+    margin-left:10%;
+    font-size:1rem;
+}
+
+.CLB{
+    float:left;
+    width:20px;
+    margin:5px 10px;
+}
+
+.myphotodiv {
+    position: absolute;
+    top: 30px;
+    right: 200px;
+    border-radius: 50%;
+}
+
+.videoBox {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+
+
+.healthBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cen{
+    text-align: center;
+}
+
+
+.button1{
+    color:black;
+    font-size:16    px;
+    background-color:white;
+    width:100px;
+    height:40px;
+    text-align:center;
+    border-radius:1rem;
+    border:none;
