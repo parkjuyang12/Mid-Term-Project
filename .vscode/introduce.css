@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+    color: black;
+}
+
+
+
+
+
+
+.top {
+    top: 0;
+    height: 60px;
+    width: 100%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
